@@ -1,0 +1,36 @@
+/*defaul page settings*/
+body,
+img,
+form,
+button {
+  margin: 0;
+  padding: 0;
+}
+
+/*header style*/
+h1 { 
+  text-align: center;
+  font-size: 50px;
+  font-style: oblique;
+  color: blue;
+}
+
+/*image style*/
+.image {
+  display: flex;
+  justify-content: center;
+  }
+
+  /*form syles*/
+  form {
+    display: flex;
+    justify-content: center;
+  }
+
+  /*styling button*/
+  button {
+    background-color: blue;
+}
+button a {
+  color: white;
+}
